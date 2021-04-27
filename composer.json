@@ -1,5 +1,5 @@
 {
-  "name": "olehrymar/guzzle-http-mock",
+  "name": "aeris/guzzle-http-mock",
   "description": "A mock library for verifying requests made with the Guzzle Http Client, and mocking responses.",
   "keywords": [
     "testing",
@@ -29,12 +29,6 @@
     }
   ],
   "minimum-stability": "dev",
-  "repositories": [
-    {
-      "type": "vcs",
-      "url": "https://github.com/olehrymar/GuzzleHttpMock"
-    }
-  ],
   "require": {
     "php": ">=5.3.3",
     "guzzlehttp/guzzle": "6.5.4"
